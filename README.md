@@ -10,4 +10,7 @@
 
 如果你在编程中遇到什么问题，或者有什么奇奇怪怪的想法，欢迎通过<a href="mailto:linklinco@163.com">✉️邮件</a>联系我~
 
+<p>Hello, I'm linco 😋。 Welcome to my GitHub home page, where I've learned to program. Here are some projects you might be interested in~ If you have any problems in programming, or have any strange ideas, please contact me by <a href="mailto:linklinco@163.com">✉️email</a></p>
+
+
 <h4 align="center">Made with ❤️ by <a href="https://linklinco.github.io" style="text-decoration:none">Linco</a>🎉</h4>
